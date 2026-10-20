@@ -1,0 +1,398 @@
+{
+  "Suomi-NPP VIIRS": {
+    "product": "VNP14IMG",
+    "version": "002",
+    "satellite": "Suomi-NPP",
+    "region_bbox": "-80,45,-55,63",
+    "date": "2023-06-20",
+    "cmr_found": 14,
+    "already_present": 14,
+    "newly_downloaded": 14,
+    "verified_ok": 14,
+    "failed": 0,
+    "files": [
+      {
+        "filename": "VNP14IMG.A2023171.0500.002.2024079150748.nc",
+        "acq_time_start": "2023-06-20T05:00:00.000Z",
+        "acq_time_end": "2023-06-20T05:06:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.0500.002.2024079150748.nc",
+        "exists": true,
+        "size_bytes": 1295160,
+        "verified": true
+      },
+      {
+        "filename": "VNP14IMG.A2023171.0506.002.2024079150751.nc",
+        "acq_time_start": "2023-06-20T05:06:00.000Z",
+        "acq_time_end": "2023-06-20T05:12:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.0506.002.2024079150751.nc",
+        "exists": true,
+        "size_bytes": 993173,
+        "verified": true
+      },
+      {
+        "filename": "VNP14IMG.A2023171.0642.002.2024079150751.nc",
+        "acq_time_start": "2023-06-20T06:42:00.000Z",
+        "acq_time_end": "2023-06-20T06:48:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.0642.002.2024079150751.nc",
+        "exists": true,
+        "size_bytes": 1451105,
+        "verified": true
+      },
+      {
+        "filename": "VNP14IMG.A2023171.0648.002.2024079150747.nc",
+        "acq_time_start": "2023-06-20T06:48:00.000Z",
+        "acq_time_end": "2023-06-20T06:54:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.0648.002.2024079150747.nc",
+        "exists": true,
+        "size_bytes": 1788639,
+        "verified": true
+      },
+      {
+        "filename": "VNP14IMG.A2023171.0824.002.2024079150751.nc",
+        "acq_time_start": "2023-06-20T08:24:00.000Z",
+        "acq_time_end": "2023-06-20T08:30:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.0824.002.2024079150751.nc",
+        "exists": true,
+        "size_bytes": 2146767,
+        "verified": true
+      },
+      {
+        "filename": "VNP14IMG.A2023171.0830.002.2024079150748.nc",
+        "acq_time_start": "2023-06-20T08:30:00.000Z",
+        "acq_time_end": "2023-06-20T08:36:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.0830.002.2024079150748.nc",
+        "exists": true,
+        "size_bytes": 1657470,
+        "verified": true
+      },
+      {
+        "filename": "VNP14IMG.A2023171.1006.002.2024079150750.nc",
+        "acq_time_start": "2023-06-20T10:06:00.000Z",
+        "acq_time_end": "2023-06-20T10:12:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.1006.002.2024079150750.nc",
+        "exists": true,
+        "size_bytes": 2482942,
+        "verified": true
+      },
+      {
+        "filename": "VNP14IMG.A2023171.1318.002.2024079150750.nc",
+        "acq_time_start": "2023-06-20T13:18:00.000Z",
+        "acq_time_end": "2023-06-20T13:24:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.1318.002.2024079150750.nc",
+        "exists": true,
+        "size_bytes": 1132594,
+        "verified": true
+      },
+      {
+        "filename": "VNP14IMG.A2023171.1454.002.2024079150749.nc",
+        "acq_time_start": "2023-06-20T14:54:00.000Z",
+        "acq_time_end": "2023-06-20T15:00:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.1454.002.2024079150749.nc",
+        "exists": true,
+        "size_bytes": 1584079,
+        "verified": true
+      },
+      {
+        "filename": "VNP14IMG.A2023171.1500.002.2024079150747.nc",
+        "acq_time_start": "2023-06-20T15:00:00.000Z",
+        "acq_time_end": "2023-06-20T15:06:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.1500.002.2024079150747.nc",
+        "exists": true,
+        "size_bytes": 1098365,
+        "verified": true
+      },
+      {
+        "filename": "VNP14IMG.A2023171.1630.002.2024079150750.nc",
+        "acq_time_start": "2023-06-20T16:30:00.000Z",
+        "acq_time_end": "2023-06-20T16:36:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.1630.002.2024079150750.nc",
+        "exists": true,
+        "size_bytes": 1598093,
+        "verified": true
+      },
+      {
+        "filename": "VNP14IMG.A2023171.1636.002.2024079150750.nc",
+        "acq_time_start": "2023-06-20T16:36:00.000Z",
+        "acq_time_end": "2023-06-20T16:42:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.1636.002.2024079150750.nc",
+        "exists": true,
+        "size_bytes": 2383258,
+        "verified": true
+      },
+      {
+        "filename": "VNP14IMG.A2023171.1812.002.2024079150751.nc",
+        "acq_time_start": "2023-06-20T18:12:00.000Z",
+        "acq_time_end": "2023-06-20T18:18:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.1812.002.2024079150751.nc",
+        "exists": true,
+        "size_bytes": 2141596,
+        "verified": true
+      },
+      {
+        "filename": "VNP14IMG.A2023171.1818.002.2024079150748.nc",
+        "acq_time_start": "2023-06-20T18:18:00.000Z",
+        "acq_time_end": "2023-06-20T18:24:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\Suomi-NPP\\VNP14IMG.A2023171.1818.002.2024079150748.nc",
+        "exists": true,
+        "size_bytes": 2876842,
+        "verified": true
+      }
+    ],
+    "notes": "Rebuilt manifest from disk state. All 39 CMR granules present and verified."
+  },
+  "NOAA-20 VIIRS": {
+    "product": "VJ114IMG",
+    "version": "002",
+    "satellite": "NOAA-20",
+    "region_bbox": "-80,45,-55,63",
+    "date": "2023-06-20",
+    "cmr_found": 14,
+    "already_present": 14,
+    "newly_downloaded": 14,
+    "verified_ok": 14,
+    "failed": 0,
+    "files": [
+      {
+        "filename": "VJ114IMG.A2023171.0412.002.2024100113629.nc",
+        "acq_time_start": "2023-06-20T04:12:00.000Z",
+        "acq_time_end": "2023-06-20T04:18:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.0412.002.2024100113629.nc",
+        "exists": true,
+        "size_bytes": 1130369,
+        "verified": true
+      },
+      {
+        "filename": "VJ114IMG.A2023171.0554.002.2024100113629.nc",
+        "acq_time_start": "2023-06-20T05:54:00.000Z",
+        "acq_time_end": "2023-06-20T06:00:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.0554.002.2024100113629.nc",
+        "exists": true,
+        "size_bytes": 1691411,
+        "verified": true
+      },
+      {
+        "filename": "VJ114IMG.A2023171.0600.002.2024100113630.nc",
+        "acq_time_start": "2023-06-20T06:00:00.000Z",
+        "acq_time_end": "2023-06-20T06:06:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.0600.002.2024100113630.nc",
+        "exists": true,
+        "size_bytes": 848963,
+        "verified": true
+      },
+      {
+        "filename": "VJ114IMG.A2023171.0730.002.2024100113631.nc",
+        "acq_time_start": "2023-06-20T07:30:00.000Z",
+        "acq_time_end": "2023-06-20T07:36:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.0730.002.2024100113631.nc",
+        "exists": true,
+        "size_bytes": 1196275,
+        "verified": true
+      },
+      {
+        "filename": "VJ114IMG.A2023171.0736.002.2024100113630.nc",
+        "acq_time_start": "2023-06-20T07:36:00.000Z",
+        "acq_time_end": "2023-06-20T07:42:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.0736.002.2024100113630.nc",
+        "exists": true,
+        "size_bytes": 2280823,
+        "verified": true
+      },
+      {
+        "filename": "VJ114IMG.A2023171.0912.002.2024100113630.nc",
+        "acq_time_start": "2023-06-20T09:12:00.000Z",
+        "acq_time_end": "2023-06-20T09:18:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.0912.002.2024100113630.nc",
+        "exists": true,
+        "size_bytes": 1840609,
+        "verified": true
+      },
+      {
+        "filename": "VJ114IMG.A2023171.0918.002.2024100113628.nc",
+        "acq_time_start": "2023-06-20T09:18:00.000Z",
+        "acq_time_end": "2023-06-20T09:24:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.0918.002.2024100113628.nc",
+        "exists": true,
+        "size_bytes": 1916485,
+        "verified": true
+      },
+      {
+        "filename": "VJ114IMG.A2023171.1406.002.2024100113629.nc",
+        "acq_time_start": "2023-06-20T14:06:00.000Z",
+        "acq_time_end": "2023-06-20T14:12:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.1406.002.2024100113629.nc",
+        "exists": true,
+        "size_bytes": 1348063,
+        "verified": true
+      },
+      {
+        "filename": "VJ114IMG.A2023171.1542.002.2024100113628.nc",
+        "acq_time_start": "2023-06-20T15:42:00.000Z",
+        "acq_time_end": "2023-06-20T15:48:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.1542.002.2024100113628.nc",
+        "exists": true,
+        "size_bytes": 1923223,
+        "verified": true
+      },
+      {
+        "filename": "VJ114IMG.A2023171.1548.002.2024100113644.nc",
+        "acq_time_start": "2023-06-20T15:48:00.000Z",
+        "acq_time_end": "2023-06-20T15:54:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.1548.002.2024100113644.nc",
+        "exists": true,
+        "size_bytes": 1581640,
+        "verified": true
+      },
+      {
+        "filename": "VJ114IMG.A2023171.1724.002.2024100113648.nc",
+        "acq_time_start": "2023-06-20T17:24:00.000Z",
+        "acq_time_end": "2023-06-20T17:30:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.1724.002.2024100113648.nc",
+        "exists": true,
+        "size_bytes": 2738750,
+        "verified": true
+      },
+      {
+        "filename": "VJ114IMG.A2023171.1730.002.2024100113642.nc",
+        "acq_time_start": "2023-06-20T17:30:00.000Z",
+        "acq_time_end": "2023-06-20T17:36:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.1730.002.2024100113642.nc",
+        "exists": true,
+        "size_bytes": 1908717,
+        "verified": true
+      },
+      {
+        "filename": "VJ114IMG.A2023171.1906.002.2024100113644.nc",
+        "acq_time_start": "2023-06-20T19:06:00.000Z",
+        "acq_time_end": "2023-06-20T19:12:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.1906.002.2024100113644.nc",
+        "exists": true,
+        "size_bytes": 2840705,
+        "verified": true
+      },
+      {
+        "filename": "VJ114IMG.A2023171.1912.002.2024100113643.nc",
+        "acq_time_start": "2023-06-20T19:12:00.000Z",
+        "acq_time_end": "2023-06-20T19:18:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-20\\VJ114IMG.A2023171.1912.002.2024100113643.nc",
+        "exists": true,
+        "size_bytes": 2356226,
+        "verified": true
+      }
+    ],
+    "notes": "Rebuilt manifest from disk state. All 39 CMR granules present and verified."
+  },
+  "NOAA-21 VIIRS": {
+    "product": "VJ214IMG",
+    "version": "002",
+    "satellite": "NOAA-21",
+    "region_bbox": "-80,45,-55,63",
+    "date": "2023-06-20",
+    "cmr_found": 11,
+    "already_present": 11,
+    "newly_downloaded": 11,
+    "verified_ok": 11,
+    "failed": 0,
+    "files": [
+      {
+        "filename": "VJ214IMG.A2023171.0436.002.2025269233438.nc",
+        "acq_time_start": "2023-06-20T04:36:00.000Z",
+        "acq_time_end": "2023-06-20T04:42:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-21\\VJ214IMG.A2023171.0436.002.2025269233438.nc",
+        "exists": true,
+        "size_bytes": 1177187,
+        "verified": true
+      },
+      {
+        "filename": "VJ214IMG.A2023171.0442.002.2025269233438.nc",
+        "acq_time_start": "2023-06-20T04:42:00.000Z",
+        "acq_time_end": "2023-06-20T04:48:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-21\\VJ214IMG.A2023171.0442.002.2025269233438.nc",
+        "exists": true,
+        "size_bytes": 563124,
+        "verified": true
+      },
+      {
+        "filename": "VJ214IMG.A2023171.0618.002.2025269233440.nc",
+        "acq_time_start": "2023-06-20T06:18:00.000Z",
+        "acq_time_end": "2023-06-20T06:24:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-21\\VJ214IMG.A2023171.0618.002.2025269233440.nc",
+        "exists": true,
+        "size_bytes": 1787259,
+        "verified": true
+      },
+      {
+        "filename": "VJ214IMG.A2023171.0754.002.2025269233436.nc",
+        "acq_time_start": "2023-06-20T07:54:00.000Z",
+        "acq_time_end": "2023-06-20T08:00:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-21\\VJ214IMG.A2023171.0754.002.2025269233436.nc",
+        "exists": true,
+        "size_bytes": 1563594,
+        "verified": true
+      },
+      {
+        "filename": "VJ214IMG.A2023171.0800.002.2025269233440.nc",
+        "acq_time_start": "2023-06-20T08:00:00.000Z",
+        "acq_time_end": "2023-06-20T08:06:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-21\\VJ214IMG.A2023171.0800.002.2025269233440.nc",
+        "exists": true,
+        "size_bytes": 2063619,
+        "verified": true
+      },
+      {
+        "filename": "VJ214IMG.A2023171.0936.002.2025269233440.nc",
+        "acq_time_start": "2023-06-20T09:36:00.000Z",
+        "acq_time_end": "2023-06-20T09:42:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-21\\VJ214IMG.A2023171.0936.002.2025269233440.nc",
+        "exists": true,
+        "size_bytes": 2096418,
+        "verified": true
+      },
+      {
+        "filename": "VJ214IMG.A2023171.1430.002.2025269233440.nc",
+        "acq_time_start": "2023-06-20T14:30:00.000Z",
+        "acq_time_end": "2023-06-20T14:36:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-21\\VJ214IMG.A2023171.1430.002.2025269233440.nc",
+        "exists": true,
+        "size_bytes": 1178330,
+        "verified": true
+      },
+      {
+        "filename": "VJ214IMG.A2023171.1606.002.2025269233439.nc",
+        "acq_time_start": "2023-06-20T16:06:00.000Z",
+        "acq_time_end": "2023-06-20T16:12:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-21\\VJ214IMG.A2023171.1606.002.2025269233439.nc",
+        "exists": true,
+        "size_bytes": 2154598,
+        "verified": true
+      },
+      {
+        "filename": "VJ214IMG.A2023171.1612.002.2025269233437.nc",
+        "acq_time_start": "2023-06-20T16:12:00.000Z",
+        "acq_time_end": "2023-06-20T16:18:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-21\\VJ214IMG.A2023171.1612.002.2025269233437.nc",
+        "exists": true,
+        "size_bytes": 1512611,
+        "verified": true
+      },
+      {
+        "filename": "VJ214IMG.A2023171.1748.002.2025269233437.nc",
+        "acq_time_start": "2023-06-20T17:48:00.000Z",
+        "acq_time_end": "2023-06-20T17:54:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-21\\VJ214IMG.A2023171.1748.002.2025269233437.nc",
+        "exists": true,
+        "size_bytes": 2757341,
+        "verified": true
+      },
+      {
+        "filename": "VJ214IMG.A2023171.1930.002.2025269233438.nc",
+        "acq_time_start": "2023-06-20T19:30:00.000Z",
+        "acq_time_end": "2023-06-20T19:36:00.000Z",
+        "local_path": "D:\\Faiyad\\NASA-Space\\Data\\Raw\\VIIRS\\NOAA-21\\VJ214IMG.A2023171.1930.002.2025269233438.nc",
+        "exists": true,
+        "size_bytes": 2997297,
+        "verified": true
+      }
+    ],
+    "notes": "Rebuilt manifest from disk state. All 39 CMR granules present and verified."
+  }
+}
